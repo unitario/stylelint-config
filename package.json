@@ -1,0 +1,30 @@
+{
+  "name": "@unitario/stylelint-config",
+  "version": "1.0.0",
+  "description": "Standard Stylelint configurations for Unitario",
+  "main": "index.js",
+  "license": "MIT",
+  "homepage": "https://github.com/unitario/stylelint-config",
+  "bugs": "https://github.com/unitario/stylelint-config/issues",
+  "repository": {
+    "url": "https://github.com/unitario/stylelint-config",
+    "type": "git"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "author": {
+    "name": "unitario",
+    "email": "stefan.astrand@unitar.io",
+    "url": "https://www.unitar.io"
+  },
+  "peerDependencies": {
+    "prettier": "^1.19.1",
+    "stylelint": "^11.1.1"
+  },
+  "devDependencies": {
+    "stylelint-config-prettier": "^6.0.0",
+    "stylelint-config-standard": "^19.0.0",
+    "stylelint-prettier": "^1.1.1"
+  }
+}
