@@ -15,7 +15,7 @@ export default {
       "error",
       {
         // Default is 80
-        "printWidth": 120,
+        "printWidth": 160,
         // Default is 4
         "tabWidth": 2,
         // Default is false
